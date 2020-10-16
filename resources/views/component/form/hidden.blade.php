@@ -1,0 +1,1 @@
+<input id="{{$fieldname}}" name="{{$fieldname}}" type="hidden" value="{{$value}}">
