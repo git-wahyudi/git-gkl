@@ -8,7 +8,7 @@ use App\Http\Requests\ValidateCreatePengguna;
 use App\Http\Requests\ValidateUpdatePengguna;
 
 use App\Models\role;
-use App\Models\user;
+use App\Models\User;
 use App\Models\user_role;
 use DataTables;
 use Hash;
