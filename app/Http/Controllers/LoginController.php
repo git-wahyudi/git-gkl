@@ -9,7 +9,7 @@ use Auth;
 use Session;
 use Hash;
 use File;
-use App\Models\user;
+use App\Models\User;
 use Validator;
 
 class LoginController extends Controller
